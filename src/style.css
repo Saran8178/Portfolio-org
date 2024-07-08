@@ -15,7 +15,7 @@ html {
 }
 
 .purple {
-  color: #4d109c !important;
+  color: skyblue !important;
 }
 
 button:focus {
@@ -57,18 +57,18 @@ button:focus {
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: #2d1950;
+  background: skyblue;
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: rgba(178, 121, 216, 0.959);
+  background: skyblue;
   border-radius: 12px;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: rgba(222, 130, 235, 0.911);
+  background: skyblue;
   border-radius: 12px;
 }
 
@@ -97,7 +97,7 @@ button:focus {
 
 .navbar-toggler span {
   display: block !important;
-  background-color: #be50f4 !important;
+  background-color: skyblue!important;
   height: 4px !important;
   width: 27px !important;
   margin-top: 5px !important;
@@ -144,7 +144,7 @@ button:focus {
   .navbar {
     padding: 1rem 2rem !important;
     font-size: 1.4rem !important;
-    background-color: #181a27 !important;
+    background-color:skyblue!important;
   }
   .navbar-nav .nav-item a::after {
     display: none !important;
@@ -194,7 +194,7 @@ button:focus {
   height: 5px;
   width: 0;
   border-radius: 16px;
-  background: #4d109c;
+  background:skyblue;
   bottom: 1px;
   left: 0;
   z-index: -1;
@@ -241,17 +241,17 @@ background-color: black;
 }
 
 .main-name {
-  color:  #4d109c ;
+  color:  skyblue ;
 }
 
 .Typewriter__wrapper {
   font-size: 2.2em !important;
-  color: #4d109c !important;
+  color: skyblue!important;
   font-weight: 600 !important;
 }
 .Typewriter__cursor {
   font-size: 2.4em !important;
-  color:  #4d109c !important;
+  color:  skyblue !important;
 }
 
 @media (max-width: 767px) {
@@ -392,7 +392,7 @@ background-color: black;
 }
 
 .project-card-view {
-  box-shadow: 0 4px 5px 3px  #4d109c!important;
+  box-shadow: 0 4px 5px 3px skyblue!important;
   color: white !important;
   background-color: transparent !important;
   opacity: 0.9 !important;
@@ -402,7 +402,7 @@ background-color: black;
 .project-card-view:hover {
   transform: scale(1.02) !important;
   overflow: hidden !important;
-  box-shadow: 0 4px 4px 5px  #6910dd !important;
+  box-shadow: 0 4px 4px 5px  skyblue !important;
 }
 
 .blog-card {
@@ -415,7 +415,7 @@ background-color: black;
 
 .blog-card-view {
   background-color: transparent !important;
-  box-shadow: 0 3px 3px 2px rgba(145, 77, 161, 0.459) !important;
+  box-shadow: 0 3px 3px 2px rgb(57, 134, 165)!important;
   color: white !important;
   transition: all 0.5s ease 0s !important;
   height: 100% !important;
@@ -450,14 +450,14 @@ background-color: black;
 
 .btn-primary {
   color: #fff !important;
-  background-color:  #6910dd !important;
-  border-color:  #6910dd !important;
+  background-color:  rgb(9, 60, 80) !important;
+  border-color:  rgb(12, 91, 122) !important;
 }
 
 .btn-primary:hover {
   color: #fff !important;
-  background-color: #6d20c5d7 !important;
-  border-color: #6d20c5d7 !important;
+  background-color:  rgb(12, 91, 122) !important;
+  border-color:  rgb(12, 91, 122) !important;
 }
 .btn:focus {
   outline: none !important;
